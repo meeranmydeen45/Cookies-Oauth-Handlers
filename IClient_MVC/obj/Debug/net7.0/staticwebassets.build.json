@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "W0+P+1ZBEhzyj3rcYRm6Jv0HPwq1OiTnyqxfBv+6XJU=",
+  "Source": "IClient",
+  "BasePath": "_content/IClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "IClient\\wwwroot",
+      "Source": "IClient",
+      "ContentRoot": "C:\\Users\\meeran\\source\\repos\\Authentication and Authorization\\IClient_MVC\\wwwroot\\",
+      "BasePath": "_content/IClient",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,50 @@
+C:\Users\meeran\source\repos\CookieAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\meeran\source\repos\CookieAPI\bin\Debug\net7.0\CookieAPI.exe
+C:\Users\meeran\source\repos\CookieAPI\bin\Debug\net7.0\CookieAPI.deps.json
+C:\Users\meeran\source\repos\CookieAPI\bin\Debug\net7.0\CookieAPI.runtimeconfig.json
+C:\Users\meeran\source\repos\CookieAPI\bin\Debug\net7.0\CookieAPI.dll
+C:\Users\meeran\source\repos\CookieAPI\bin\Debug\net7.0\CookieAPI.pdb
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\CookieAPI.csproj.AssemblyReference.cache
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\CookieAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\CookieAPI.AssemblyInfoInputs.cache
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\CookieAPI.AssemblyInfo.cs
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\CookieAPI.csproj.CoreCompileInputs.cache
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\CookieAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\staticwebassets\msbuild.CookieAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.CookieAPI.props
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CookieAPI.props
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CookieAPI.props
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\scopedcss\bundle\CookieAPI.styles.css
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\CookieAPI.dll
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\refint\CookieAPI.dll
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\CookieAPI.pdb
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\CookieAPI.genruntimeconfig.cache
+C:\Users\meeran\source\repos\CookieAPI\obj\Debug\net7.0\ref\CookieAPI.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\bin\Debug\net7.0\CookieAPI.exe
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\bin\Debug\net7.0\CookieAPI.deps.json
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\bin\Debug\net7.0\CookieAPI.runtimeconfig.json
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\bin\Debug\net7.0\CookieAPI.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\bin\Debug\net7.0\CookieAPI.pdb
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\CookieAPI.csproj.AssemblyReference.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\CookieAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\CookieAPI.AssemblyInfoInputs.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\CookieAPI.AssemblyInfo.cs
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\CookieAPI.csproj.CoreCompileInputs.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\CookieAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\staticwebassets\msbuild.CookieAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.CookieAPI.props
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CookieAPI.props
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CookieAPI.props
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\scopedcss\bundle\CookieAPI.styles.css
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\CookieAPI.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\refint\CookieAPI.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\CookieAPI.pdb
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\CookieAPI.genruntimeconfig.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\Cookies Oauth Handlers\CookieAPI\obj\Debug\net7.0\ref\CookieAPI.dll
